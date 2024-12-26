@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img align="center" alt="sword" width="498" height="280" src="https://media.tenor.com/sI8HtFSxjTcAAAAC/anime-sword-sheath-the-sword.gif">
+
 <!--
 **DivyeshDongare/DivyeshDongare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
